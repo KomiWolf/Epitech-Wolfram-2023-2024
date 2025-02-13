@@ -1,5 +1,5 @@
 # Wolfram
-Wolfram est un projet visant à refaire le célèbre Jeu de la Vie de Conway, mais cette fois dans un paradigme différent : la programmation fonctionnelle. En exploitant la puissance et l’élégance de Haskell, ce projet propose une approche pure et expressive pour simuler cet automate cellulaire emblématique.
+Wolfram est un projet visant à refaire certaines règles du célèbre Jeu de la Vie de Conway, mais dans un paradigme différent : la programmation fonctionnelle. En exploitant la puissance et l’élégance de Haskell, ce projet propose une approche pure et expressive pour simuler cet automate cellulaire emblématique.
 
 ============================================
 
